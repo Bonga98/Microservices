@@ -28,6 +28,13 @@ public class AccountsController {
 
     }
 
+//    @GetMapping("fetch")
+//    public ResponseEntity<CustomerDto> fetchAccountDetails(@RequestParam String mobileNumber){
+//
+//    }
+
+
+
 
 
 }
