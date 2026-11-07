@@ -1,0 +1,35 @@
+### IntelliJ IDEA ###
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+### Maven ###
+target/
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+### Eclipse / VS Code ###
+.classpath
+.project
+.settings/
+bin/
+.vscode/
+
+### Java ###
+*.class
+*.log
+hs_err_pid*
+replay_pid*
+
+### OS ###
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+### Microsoft Office temp files ###
+~$*
+
+### Local documentation (not shared) ###
+Documentation/
